@@ -109,6 +109,7 @@ footer {
     font-family: Verdana, sans-serif
 }
 
+
 .div-serv {
 font-size:28px;
     background-color: #fffefe;
@@ -119,7 +120,7 @@ border: 2px solid #9E4770 ;
     margin-left: 40px;
     margin-right: 40px;
     border-radius: 40px;
-    padding: 40;
+    padding: 40px;
     box-shadow: 5px 10px rgba(0, 0, 0, 0.063)
 }
 
@@ -140,4 +141,10 @@ border: 2px solid #9E4770 ;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.img-contact{
+    width: 950;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.063)
+
 }
